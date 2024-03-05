@@ -2,7 +2,6 @@ package com.example.a2023b_gr1sw_ejsc
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.os.PersistableBundle
 import com.google.android.material.snackbar.Snackbar
 class ACicloVida : AppCompatActivity() {
 
